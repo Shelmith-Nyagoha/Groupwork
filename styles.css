@@ -84,7 +84,8 @@ GROUP MEMBERS
   
   .image{
    border-radius: 10px;
-   width:150px;
+   width: 150px;
+     height: 150px;
    }
 .title  {
   text-align: center;
