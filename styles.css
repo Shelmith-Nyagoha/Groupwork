@@ -83,14 +83,12 @@ GROUP MEMBERS
 }
   
   .image{
-     display: block;
-  margin-left: auto;
-  margin-right: auto;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
    width: 50%;
    border-radius: 30px;
-   
-  
-   }
+    }
 .title  {
   text-align: center;
  font-family: cursive;
