@@ -96,6 +96,11 @@ GROUP MEMBERS
   font-size: 40px;
   font-style: italic;
 }
+  
+  .topintro img{
+   border-radius: 1px;
+   width:400px;
+   }
 .title  {
   text-align: center;
  font-family: cursive;
