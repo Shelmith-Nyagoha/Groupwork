@@ -36,22 +36,7 @@ GROUP MEMBERS
   color: black;
    border-radius: 10px;
 }
-.myImage {
-  /* The image used */
-  background-image: url("artist.jpg");
 
-  /* Add the blur effect */
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 .portfolio1{
   background-image: url(rose.jpg);
   background-position: center;
